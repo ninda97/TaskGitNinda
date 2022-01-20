@@ -1,4 +1,4 @@
 function login () {
 	this is a register function;
-	register;
+	otp register;
 }
