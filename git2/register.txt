@@ -1,0 +1,6 @@
+function login () {
+	this is a register function;
+	otp register;
+	adding register feature for facebook;
+	adding register feature in google;
+}
